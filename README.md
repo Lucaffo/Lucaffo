@@ -9,8 +9,10 @@ I have worked on many type of projects from...
 
 ### 🧪 Contact me
 - [Linkedin](https://www.linkedin.com/in/lucaraffo/)
-- [Itch Page](https://xedoll.itch.io/) ( I'm actually working on presentation and i have to include my biggest projects )
 
+<!--
+- [Itch Page](https://xedoll.itch.io/) ( I'm actually working on presentation and i have to include my biggest projects )
+-->
 ---
 
 💬 Ask me anything and i will try to respond you as best as i can
