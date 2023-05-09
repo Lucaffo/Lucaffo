@@ -15,4 +15,4 @@ I have worked on many type of projects from...
 -->
 ---
 
-💬 Ask me anything and i will try to respond you as best as i can
+💬 Ask me anything and I'll try to answer you as best i can
