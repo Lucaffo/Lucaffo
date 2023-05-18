@@ -1,3 +1,5 @@
-![octocat_musicdisc_wallpaper-min](https://user-images.githubusercontent.com/55745404/236838852-8e7e9c71-9ecf-4de3-b30f-71cf6ba56c75.png)
+### 🖐️ Welcome! 
+That's my portfolio! You can find my public projects in this page.
 
-💬 Ask me anything and I'll try to answer you as best i can
+### 🤙 Contact me! 
+If you need to ask something, I will try to answer you as best as possible!
